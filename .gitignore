@@ -1,0 +1,9 @@
+# Fichiers générés par LabVIEW à ignorer
+*.aliases
+*.lvlps
+*.lvbitx
+*.lvappimg
+*.lvlibp
+*.log
+build/
+temp/
